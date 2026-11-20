@@ -1,0 +1,50 @@
+XUBIFY PROPRIETARY SOFTWARE NOTICE
+
+Copyright (c) 2026 Xubii. All rights reserved.
+
+Xubify, including its proprietary source code, application design, interface,
+graphics, branding, documentation, and other original materials, is
+proprietary software owned by Xubii, except for third-party components
+identified as being subject to separate licences.
+
+No permission is granted to any person to copy, modify, adapt, publish,
+distribute, sublicense, sell, rent, reverse engineer, or create derivative
+works from Xubify or its proprietary materials, except where such activity
+is expressly permitted by applicable law or authorised in writing by Xubii.
+
+You may download and use an official release of Xubify for your own
+personal use, subject to any terms presented with that release. You may not
+repackage, rebrand, redistribute, or commercially exploit the application
+without prior written permission.
+
+THIRD-PARTY SOFTWARE
+
+Xubify may include or use third-party software, libraries, codecs, tools,
+or other components. Those components remain subject to their own
+copyright notices and licence terms. Nothing in this notice overrides
+those third-party licences.
+
+TRADEMARKS AND BRANDING
+
+The Xubify name, logo, mascot, and associated branding are not licensed
+for unauthorised use, reproduction, or representation of an official
+relationship with Xubii.
+
+DISCLAIMER
+
+Xubify is provided "as is", to the maximum extent permitted by applicable
+law, without warranties of any kind. To the maximum extent permitted by
+applicable law, Xubii is not liable for loss or damage arising from use
+of the software.
+
+This notice does not exclude, restrict, or modify any rights or remedies
+that cannot lawfully be excluded, restricted, or modified under applicable
+consumer or other mandatory laws.
+
+CONTACT
+
+For permission requests concerning use of Xubify's proprietary materials,
+contact the copyright holder through the official Xubify project page.
+
+This notice applies only to materials owned by Xubii. Third-party
+components retain their respective owners' rights and licence conditions.
